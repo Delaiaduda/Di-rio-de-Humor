@@ -6,3 +6,15 @@ React
 JavaScript (ES6+)
 HTML5
 CSS3
+
+Gerenciamento de Estado: utilização do hook useState para controlar os dados da aplicação de forma reativa;
+
+Componentização: criação e reutilização de componentes para a UI, como Botao, Input e CardHumor;
+
+Props: passagem de dados e funções entre componentes (“pai para filho”);
+
+Renderização Condicional: lógica para exibir diferentes partes da interface com base no humor selecionado;
+
+Manipulação de Arrays: adicionar e listar os registros diários de humor;
+
+Inputs e Botões: captura de informações do usuário de forma dinâmica.
